@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/wrap_adview" >
+
+        <!-- main content -->
+
+        <FrameLayout
+            android:id="@+id/main_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </FrameLayout>
+
+        <ListView
+            android:id="@+id/left_navigation"
+            android:layout_width="@dimen/listview_drawerlayout_width"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#fafafa"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent" >
+        </ListView>
+    </android.support.v4.widget.DrawerLayout>
+
+    <RelativeLayout
+        android:id="@+id/wrap_adview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" >
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/closeAdview"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"
+            android:visibility="gone" >
+        </com.google.android.gms.ads.AdView>
+        
+
+        <!-- <ImageView
+            android:id="@+id/closeAdview"
+            android:layout_width="20dp"
+            android:layout_height="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/close"
+            android:visibility="gone" /> -->
+    </RelativeLayout>
+
+</RelativeLayout>

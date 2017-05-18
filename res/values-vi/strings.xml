@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tiếng Đức Giao Tiếp</string>
+    <string name="category_name_column">vietnamese</string>
+    <string name="phrase_name_column">vietnamese</string>
+    <string name="favorite_title">Mẫu câu yêu thích</string>
+    <string name="no_favorites">Bạn chưa đánh dấu mẫu câu yêu thích nào !! </string>
+    <string name="content_not_found">Nội dung đang được update ...</string>
+    <string name="see_more">Xem Thêm</string>
+    <string name="search_hint">Tìm bằng Tiếng Đức hoặc Tiếng Việt</string>
+    
+    <string-array name="list_string_navigation">
+        <item >Mẫu câu thông dụng</item>
+        <item >Ngữ pháp</item>
+        <item >Yêu thích</item>
+        <item>Đánh giá app</item>
+        <item >Xem thêm</item>
+        <!-- <item >Videos</item>
+        <item >Xem thêm</item> -->
+    </string-array>
+    
+   <!--  <string-array name="list_string_navigation">
+        <item >Trang Chủ</item>
+        <item>Mẫu Câu Thông Dụng</item>
+        <item >Bài học</item>
+        <item >Thành ngữ</item>
+        <item >Luyện đọc</item>
+        <item >Ngữ pháp</item>
+        <item >Từ vựng</item>
+        <item >Videos</item>
+        <item >Xem thêm</item>
+    </string-array>
+   
+    
+    <string-array name="list_drawble_navigation">
+        <item >@drawable/ic_sentence_common</item>
+        <item >@drawable/ic_lesson</item>
+        <item >@drawable/ic_idiom</item>
+        <item >@drawable/ic_reading</item>
+        <item >@drawable/ic_grammar</item>
+        <item >@drawable/ic_vocabulary_2</item>
+        <item >@drawable/ic_video_3</item>
+        <item >@drawable/ic_seemore</item>
+        <item >@drawable/reading</item>
+    </string-array>
+    
+    <string-array name="list_mainfragment_items">
+        <item>Mẫu Câu Thông Dụng</item>
+        <item >Bài học</item>
+        <item >Thành ngữ</item>
+        <item >Luyện đọc</item>
+        <item >Ngữ pháp</item>
+        <item >Từ vựng</item>
+        <item >Videos</item>
+        <item >Xem thêm</item>
+        
+    </string-array>
+    
+    <string-array name="list_name_grid_phrases">
+        <item>Chào hỏi</item>
+        <item >Hội thoại thường dùng</item>
+        <item >số</item>
+        <item >Ngày giờ</item>
+        <item >Phương hướng &amp; địa điểm</item>
+        <item >Phương tiện đi lại</item>
+        <item >địa điểm nghỉ ngơi </item>
+        <item > ăn uống</item>
+        <item >Mua sắm</item>
+        <item >Màu sắc</item>
+        <item >Thành phố &amp; tỉnh</item>
+        <item >Quốc gia</item>
+        <item >Danh lam thắng cảnh</item>
+        <item >Gia đình</item>
+        <item >Hẹn hò</item>
+        <item >Khẩn cấp</item>
+        <item >đau ốm</item>
+        <item >Câu đồng âm khác nghĩa</item>
+            
+    </string-array>    
+    	
+    <string-array name="list_resource_grid_phrases">
+        <item >@drawable/ic_salutation</item>
+    	<item >@drawable/ic_comments16</item>
+    	<item >@drawable/ic_number</item>
+    	<item >@drawable/ic_three6</item>
+    	<item >@drawable/ic_location2</item>
+    	<item >@drawable/ic_train15</item>
+    	<item >@drawable/ic_person193</item>
+    	<item >@drawable/ic_plate7</item>
+    	<item >@drawable/ic_bag2</item>
+    	<item >@drawable/ic_paint41</item>
+    	<item >@drawable/ic_town</item>
+    	<item >@drawable/ic_world8</item>
+    	<item >@drawable/ic_photo33</item>
+    	<item >@drawable/ic_family4</item>
+    	<item >@drawable/ic_heart203</item>
+    	<item >@drawable/ic_first12</item>
+    	<item >@drawable/ic_stethoscope2</item>
+    	<item >@drawable/ic_binoculars8</item>
+    </string-array> -->
+
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Learn German</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_navigation_left">Menu</string>
+    <string name="introductory">Nhập Môn</string>
+    <string name="basic">Cơ Bản</string>
+    <string name="intermediate">Trung Cấp</string>
+    <string name="advance">Nâng Cao</string>
+    <string name="no_result">No phrases found</string>
+    <string name="no_favorites">You do not have any favorite phrases yet</string>
+    <string name="category_name_column">english</string>
+    <string name="phrase_name_column">english</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6921051450709224/7140094790</string>
+    <string name="popup_ad_unit_id">ca-app-pub-6921051450709224/8616827995</string>
+    <string name="favorite_title">Favorites</string>
+    <string name="content_not_found">Content not found</string>
+    <string name="see_more">See More</string>
+    <string name="search_hint">Search by German or English</string>
+    <string name="exit_dialog">If you like this app, please rate it on Google Play !</string>
+    
+    <string-array name="list_string_navigation">
+        <item >Common Phrases</item>
+        <item >Grammar</item>
+        <item >Favorites</item>
+        <item >Rate App</item>
+        <item >See More</item>
+        <!-- <item >Videos</item>
+        <item >Xem thêm</item> -->
+    </string-array>
+   
+    
+    <string-array name="list_drawble_navigation">
+        <item >@drawable/ic_sentence_common</item>
+        <item >@drawable/ic_grammar</item>
+        <!-- <item >@drawable/ic_quiz</item> -->
+        <item >@drawable/ic_favorites</item>
+        <item >@drawable/ic_rate</item>
+        <item >@drawable/ic_seemore</item>
+    </string-array>
+    
+    <string-array name="list_mainfragment_items">
+        <item>Mẫu Câu Thông Dụng</item>
+        <item >Bài học</item>
+        <item >Thành ngữ</item>
+        <item >Luyện đọc</item>
+        <item >Ngữ pháp</item>
+        <item >Từ vựng</item>
+        <!-- <item >Videos</item>
+        <item >Xem thêm</item> -->
+        
+    </string-array>
+    
+    <string-array name="list_name_grid_phrases">
+        <item >Bảng chữ cái</item>
+        <item>Chào hỏi</item>
+        <item >Hội thoại thường dùng</item>
+        <item >số</item>
+        <item >Ngày giờ</item>
+        <item >Phương hướng &amp; địa điểm</item>
+        <item >Phương tiện đi lại</item>
+        <item >Địa điểm nghỉ ngơi </item>
+        <item > Ăn uống</item>
+        <item >Mua sắm</item>
+        <item >Màu sắc</item>
+        <item >Thành phố &amp; tỉnh</item>
+        <item >Quốc gia</item>
+        <item >Danh lam thắng cảnh</item>
+        <item >Gia đình</item>
+        <item >Hẹn hò</item>
+        <item >Khẩn cấp</item>
+        <item >Đau ốm</item>
+        <item >Câu đồng âm khác nghĩa</item>
+        <item >Âm nhạc &amp; hội họa</item>
+        <item >Bánh kẹo &amp; đồ khô</item>
+        <item >Cung hoàng đạo</item>
+        <item >Rau củ quả</item>
+        <item >Các loại gia vị</item>
+            
+    </string-array>    
+    	
+ <!--    <string-array name="list_resource_grid_phrases">
+        <item >@drawable/ic_abc</item>
+        <item >@drawable/ic_salutation</item>
+    	<item >@drawable/ic_comments16</item>
+    	<item >@drawable/ic_number</item>
+    	<item >@drawable/ic_three6</item>
+    	<item >@drawable/ic_map49</item>
+    	<item >@drawable/ic_train15</item>
+    	<item >@drawable/ic_person193</item>
+    	<item >@drawable/ic_plate7</item>
+    	<item >@drawable/ic_bag2</item>
+    	<item >@drawable/ic_paint41</item>
+    	<item >@drawable/ic_town</item>
+    	<item >@drawable/ic_world8</item>
+    	<item >@drawable/ic_photo33</item>
+    	<item >@drawable/ic_family4</item>
+    	<item >@drawable/ic_love4</item>
+    	<item >@drawable/ic_first12</item>
+    	<item >@drawable/ic_stethoscope2</item>
+    	<item >@drawable/ic_binoculars8</item>
+    	<item >@drawable/ic_music</item>
+    	<item >@drawable/ic_keo</item>
+    	<item >@drawable/ic_cunghd</item>
+    	<item >@drawable/ic_vegetable</item>
+    	<item >@drawable/ic_giavi</item>
+    </string-array> -->
+
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        
+        
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/txt_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="this is my question this is my question this is my question  " />
+    
+    <LinearLayout 
+        android:id="@+id/options"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1"
+        >
+
+        <TextView
+            android:id="@+id/optionA"
+            android:layout_width="228dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="0.29"
+            android:text=" this is answer A this is answer A this is answer A this is answer A" />
+        
+		<TextView
+		    android:id="@+id/optionB"
+		    android:layout_width="230dp"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp"
+		    android:text=" this is answer A this is answer A this is answer A this is answer A" />
+		
+		<TextView
+		    android:id="@+id/optionC"
+		    android:layout_width="232dp"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp"
+		    android:layout_weight="0.75"
+		    android:text=" this is answer A this is answer A this is answer A this is answer A" />
+		
+		<TextView
+		    android:id="@+id/optionD"
+		    android:layout_width="232dp"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp"
+		    android:layout_weight="0.75"
+		    android:text=" this is answer A this is answer A this is answer A this is answer A" />
+        
+    </LinearLayout>
+    
+
+</LinearLayout>

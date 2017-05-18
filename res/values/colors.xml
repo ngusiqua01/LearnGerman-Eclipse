@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionbar_background">#007e80</color>
+    <color name="actionbar_text_color">#FFFFFF</color>
+    <color name="number_color">#009799</color>
+    <color name="splash_color">#007e80</color>
+    <color name="item_grid_main_background">#006466</color>
+    <color name="list_view_background">#adadad</color>
+    <color name="viewpager_strip_color">#00b0b3</color>
+    <color name="grid_item_phrase_background">#00e85a6c</color>
+    <color name="grid_item_phrase_background_pressed">#553d3d3d</color>
+    <color name="phrase_fragment_background">#c6ecd9</color>
+    <color name="phrase_item_background_color">#fff</color>
+    <color name="phrase_item_background_color_pressed">#ddd</color>
+    <color name="phrase_item_text_color">#000</color>
+    <color name="phrase_item_text_color_pressed">#ddd</color>
+    <color name="phrase_item_border_color">#3d3d3d</color>
+    <color name="item_list_left_background_color">#fafafa</color>
+    <color name="item_list_left_background_color_pressed">#e1e1e1</color>
+    <color name="item_list_left_background_color_selected">#e1e1e1</color>
+
+</resources>
